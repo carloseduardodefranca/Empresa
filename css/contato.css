@@ -1,0 +1,11 @@
+.contatu{
+    padding-top: 110px;
+
+    & .icones{
+        padding-top: 50px;
+        display: flex;
+        gap: 20px;
+        align-items: center;
+       
+    }
+}

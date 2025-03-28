@@ -1,0 +1,36 @@
+.porti{
+    padding: 110px;
+
+    & .servicos{
+        height: 410px;
+        padding-top: 122px;
+        padding-left: 250px;
+        display: flex;
+        gap: 73px;
+
+        & button{
+            border-radius: 9px;
+            color: white;
+            background-color: black;
+        }
+        
+& .conversa{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+& .corretora{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+& .sound{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+    }
+}
